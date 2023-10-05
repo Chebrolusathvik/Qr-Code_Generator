@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "name": "qr-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^9.2.11",
+    "qr-image": "^3.2.0"
+  }
+}
